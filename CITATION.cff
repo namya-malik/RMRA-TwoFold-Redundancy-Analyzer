@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: RMRA Two-Fold Redundancy Analyzer
+message: If you use this software, please cite it as below.
+authors:
+  - family-names: Malik
+    given-names: Namya
+version: 1.0.0
+date-released: 2026-01-09
