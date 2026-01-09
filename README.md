@@ -21,8 +21,13 @@ function visualization and redundancy analysis interface.
 - MATLAB R2021a or later
 - Signal Processing Toolbox
 
-## How to Run
-RMRA_TwoFoldAnalyzer
+## How to Install and Run
+
+1. Download the file `RMRA_TwoFoldAnalyzer.mlappinstall`
+2. Double-click the file
+3. MATLAB will open and install the app
+4. Launch the app from the MATLAB Apps tab
+
 
 
 ## Example Input
