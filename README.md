@@ -8,7 +8,7 @@ in sparse sensor arrays and detecting hidden essential sensors.
 Screenshot of the RMRA Two-Fold Redundancy Analyzer showing the weight
 function visualization and redundancy analysis interface.
 
-![App Screenshot](AppScreenshot.png)
+![App Screenshot](app_screenshot.png)
 
 
 ## Features
@@ -23,7 +23,7 @@ function visualization and redundancy analysis interface.
 
 ## How to Install and Run
 
-1. Download the file `RMRA_TwoFoldAnalyzer.mlappinstall`
+1. Download the file `RMRA Analyzer App.mlappinstall`
 2. Double-click the file
 3. MATLAB will open and install the app
 4. Launch the app from the MATLAB Apps tab
